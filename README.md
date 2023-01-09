@@ -5,3 +5,5 @@
 - Beat Shehab at TicTacToe
 - Add a blindfold mode
 - More user-friendly
+  - Real-time board change
+  - Visual application???
